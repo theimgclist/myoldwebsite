@@ -9,7 +9,7 @@ title: Google Knows How To Teach!
  For the next two hours or so, we were busy working on that Kaggle problem. Actually, I found a very useful notebook [here](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial) for it in Kaggle which I was following along. I love word-clouds and after going through this notebook, I came to know how to make one!  
 
 ![](https://cdn-images-1.medium.com/max/1200/1*bA7Hw37OV4fjNIadj6XciQ.jpeg)
-<p align="center"><i>The Raven word-cloud, with font size varying according to the frequency of the words</i></p>
+<p class="caption"><i>The Raven word-cloud, with font size varying according to the frequency of the words</i></p>
 
 As I was feeling joyful looking at those artful word-clouds, my phone buzzed for some Twitter notification. And this is what I found in a retweet :
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We&#39;re sharing resources for everyone to learn more about AI, including a &quot;Machine Learning Crash Course&quot; which over 18K Googlers have enrolled in! <a href="https://twitter.com/hashtag/GoogleAI?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleAI</a> <a href="https://t.co/vCiw5QmNLe">https://t.co/vCiw5QmNLe</a></p>&mdash; Sundar Pichai (@sundarpichai) <a href="https://twitter.com/sundarpichai/status/969003071131938817?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -19,7 +19,7 @@ In the next second, I was on the blog post and from there I reached the crash co
 Google’s Machine Learning crash course will now be on my list of recommended resources for Machine Learning. Though it calls itself a crash course, anyone who finishes all the course content that includes videos, notes, exercises and playground tasks realises it is a lot more than a crash course. It not only made me know many things better but also helped in understanding few methods and concepts that I wasn’t aware of.  
 
 ![](https://cdn-images-1.medium.com/max/1200/1*xgkGGEpAii8Zv5OzSNJvqQ.jpeg)  
-<p align="center"><i>“Dude, this is what convex means! You heard about it in all those courses and wondered what it is” — my inner voice after it joined me and got glued to this course.</i></p> 
+<p class="caption"><i>“Dude, this is what convex means! You heard about it in all those courses and wondered what it is” — my inner voice after it joined me and got glued to this course.</i></p> 
 
 This isn’t the first resource I found really helpful with Machine Learning from Google. Jason Mayes Machine Learning 101 deck has very illustrative slides that explain the concepts of ML pretty well. It has hundred and one slides of very good Machine Learning content with an excellent design and very good examples.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting started with <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a>?  Want a deeper understanding, or maybe just plain confused? Check out my <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> 101 deck! This deck is a collection of knowledge I gathered over 2 years of reading many many articles so you don&#39;t have to. <a href="https://t.co/r1ayQTkWoE">https://t.co/r1ayQTkWoE</a> <a href="https://t.co/GB9GpAwg8M">pic.twitter.com/GB9GpAwg8M</a></p>&mdash; Jason Mayes (@jason_mayes) <a href="https://twitter.com/jason_mayes/status/938237021234933760?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
