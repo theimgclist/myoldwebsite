@@ -33,7 +33,7 @@ With the availability of hundreds of courses through MOOCs, Youtube, blogs and m
 
 Though most of the resources listed here are on Machine Learning which is what I have been living on, close to the past one year, I have also come across many resources for other technologies and products. Exploring Google developers and other Google’s sites will lead to invaluable resources to learn and practice.  
 
-Did you find this post useful? Head over [here](https://medium.com/@theimgclist/google-knows-how-to-teach-45e531ab3ada) and give it a clap(or two :wink: ). Thanks for reading!!
+Did you find this post useful? Head over [here](https://medium.com/@theimgclist/google-knows-how-to-teach-45e531ab3ada) and give it a clap(or two &#x1f609; ). Thanks for reading!!
  
 
 
