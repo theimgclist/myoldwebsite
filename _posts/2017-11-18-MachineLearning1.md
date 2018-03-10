@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Zero to a Beginner in Machine Learning and Data Science — Part 1
+title: From Zero to Beginner in Machine Learning and Data Science — Part 1
 ---
 ![](https://cdn-images-1.medium.com/max/1500/1*ZkZS46p7Lbw-PDBtPMfEEw.jpeg)
 <p class="caption">Pic taken from <a href='https://www.cloudirec.com/blog/learn-machine-learning-in-15-minutes/'>here</a></p>
@@ -14,6 +14,6 @@ Having said that, there is no definite path for Machine Learning and Data Scienc
 
 There are a lot of blogs which teach and explain many concepts of Machine Learning in an intuitive and understandable way and also blogs that contain list of so many resources that help in learning and practising Machine Learning. I owe a lot to such blogs for many of the things that I know and learnt about Machine Learning and Data Science. In the next part of this blog(or Story as it says here in Medium) instead of sharing an exhaustive list of tens and hundreds of resources that are available, I will be sharing only the specific resources which include Youtube series, MOOCs, blogs, research papers that really helped me in knowing about Machine Learning. Will be posting the next part soon.
 
-Updated : It doesn’t really take months to get started with Machine Learning. More about it in my next blog [here](https://medium.com/@theimgclist/from-zero-to-beginner-in-machine-learning-and-data-science-part-2-eda9f95c90c).
+Updated : It doesn’t really take months to get started with Machine Learning. More about it in my next blog [here](https://theimgclist.github.io/MachineLearning2/).
 
 Information is Bliss. Share what you know!
